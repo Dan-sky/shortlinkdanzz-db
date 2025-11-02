@@ -19,6 +19,7 @@
   "links": [
     { "icon": "fa-brands fa-instagram", "label": "Instagram", "href": "https://instagram.com/m.dnii" },
     { "icon": "fa-brands fa-whatsapp", "label": "WhatsApp", "href": "https://wa.me/6289529737500" },
-    { "icon": "fa-solid fa-globe", "label": "Website", "href": "https://lit.link/mdnii" }
+    { "icon": "fa-solid fa-globe", "label": "Website", "href": "https://lit.link/mdnii" },
+    { "icon": "fa-solid fa-credit-card", "label": "Payment", "href": "https://pay.danzzsky.my.id" }
   ]
 }
