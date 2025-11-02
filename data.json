@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "username": "@m.dnii",
+    "bio": "Digital Creator • Chloe Assistant",
+    "avatar": "https://files.catbox.moe/gbvprj.jpg",
+
+    "noticeEnabled": true,
+    "notice": "System Online!",
+
+    "voiceGreeting": "/audio/yokoso.mp3",
+
+    "audio": "/audio/montagem.mp3",
+    "audioTitle": "Montagem",
+    "playlist": [
+      { "title": "Montagem", "url": "/audio/montagem.mp3" },
+      { "title": "Graze", "url": "/audio/graze.mp3" }
+    ]
+  },
+  "links": [
+    { "icon": "fa-brands fa-instagram", "label": "Instagram", "href": "https://instagram.com/m.dnii" },
+    { "icon": "fa-brands fa-whatsapp", "label": "WhatsApp", "href": "https://wa.me/6289529737500" },
+    { "icon": "fa-solid fa-globe", "label": "Website", "href": "https://lit.link/mdnii" }
+  ]
+}
