@@ -40,11 +40,6 @@
       "icon": "fa-solid fa-credit-card",
       "label": "Payment",
       "href": "https://pay.danzzsky.my.id"
-    },
-    {
-      "icon": "fa-solid fa-link",
-      "label": "Link",
-      "href": "https://example.com"
     }
   ]
 }
