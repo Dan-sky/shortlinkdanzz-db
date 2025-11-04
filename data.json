@@ -3,7 +3,6 @@
     "username": "@m.dnii",
     "bio": "Digital Creator • Chloe Assistant",
     "avatar": "https://files.catbox.moe/gbvprj.jpg",
-    "VoiceGreeting" : "/audio/yokoso.mp3",
     "playlist": [
       {
         "title": "Montagem",
@@ -41,6 +40,11 @@
       "icon": "fa-solid fa-credit-card",
       "label": "Payment",
       "href": "https://pay.danzzsky.my.id"
+    },
+    {
+      "icon": "fa-brands fa-whatsapp",
+      "label": "Chloe Assistant",
+      "href": "https://wa.me/6283141426475?text=.menu"
     }
   ]
 }
