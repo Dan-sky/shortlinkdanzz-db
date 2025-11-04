@@ -3,6 +3,7 @@
     "username": "@m.dnii",
     "bio": "Digital Creator • Chloe Assistant",
     "avatar": "https://files.catbox.moe/gbvprj.jpg",
+    "VoiceGreeting" : "/audio/yokoso.mp3",
     "playlist": [
       {
         "title": "Montagem",
